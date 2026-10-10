@@ -1,0 +1,9 @@
+export { Navbar } from "./Navbar";
+export { Hero } from "./Hero";
+export { SerpSimulator } from "./SerpSimulator";
+export { Services } from "./Services";
+export { Strategy } from "./Strategy";
+export { Faq } from "./Faq";
+export { AuditForm } from "./AuditForm";
+export { ContactCta } from "./ContactCta";
+export { Footer } from "./Footer";

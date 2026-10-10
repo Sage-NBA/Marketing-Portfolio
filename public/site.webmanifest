@@ -1,0 +1,17 @@
+{
+  "name": "Growth. | Digital Marketing & SEO Specialist",
+  "short_name": "Growth.",
+  "description": "Scale your business with high-converting Google Ads, SEO optimization, and targeted Instagram campaigns.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#a3e635",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

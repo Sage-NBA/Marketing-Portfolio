@@ -1,0 +1,8 @@
+# Robots.txt for Growth Digital Marketing Portfolio
+# Allows all search engine bots to crawl and index all public pages
+
+User-agent: *
+Allow: /
+
+# Direct crawlers to the XML sitemap for instant indexing
+Sitemap: https://growthmarketing.example.com/sitemap.xml
